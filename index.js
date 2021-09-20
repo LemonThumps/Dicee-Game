@@ -38,3 +38,6 @@ function randomDice2() {
     diceImage2.setAttribute(src="images/dice5.png")
   }
 }
+
+randomDice1()
+randomDice2()
